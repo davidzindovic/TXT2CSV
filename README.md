@@ -1,7 +1,7 @@
 Directory structure
 
 1. Folder, with:
-  *python_script
+  *python_script\n
   *"csv" folder
   *"csv_semicolon" folder
   *"txt" folder
