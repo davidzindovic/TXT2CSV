@@ -1,6 +1,6 @@
 Directory structure
 
--Folder
+Folder
   -python_script
   -"csv" folder
   -"csv_semicolon" folder
